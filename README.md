@@ -90,9 +90,8 @@
 ## 📈 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gopalx2357&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Gopalx2357&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 <p align="center">
