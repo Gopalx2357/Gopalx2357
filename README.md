@@ -91,10 +91,12 @@
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
-## 👀 Profile Visitors
+---
+
+## 📈 Profile Visitors
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gopalx2357.Gopalx2357&left_color=gray&right_color=blue" alt="Visitors"/>
+  <img src="https://count.getloli.com/@Gopalx2357?name=Gopalx2357&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views"/>
 </p>
 
 <p align="center">
