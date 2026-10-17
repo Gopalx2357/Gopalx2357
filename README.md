@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a B.Tech Computer Science Engineering student.
+- 🎓 I'm a 2nd-year B.Tech Computer Science Engineering student.
 - 💻 Currently learning Data Structures & Algorithms using C++.
 - 🌱 Exploring Full Stack Development and Artificial Intelligence.
 - 🚀 Building real-world projects to improve my development skills.
@@ -23,10 +23,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Gopalx2357" target="_blank">
+  <a href="https://github.com/Gopalx2357">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/sri-krishna-gopal-yadav-874196384/" target="_blank">
+  <a href="https://www.linkedin.com/in/sri-krishna-gopal-yadav-874196384/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -74,7 +74,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -87,19 +87,12 @@
 
 ---
 
-## 📈 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gopalx2357&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
----
-
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
 <p align="center">
   <a href="https://github.com/Gopalx2357">
-    <img src="https://img.shields.io/badge/Follow%20Me-on%20GitHub-black?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_Me-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
 </p>
