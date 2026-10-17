@@ -91,6 +91,12 @@
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gopalx2357.Gopalx2357&left_color=gray&right_color=blue" alt="Visitors"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/Gopalx2357">
     <img src="https://img.shields.io/badge/Follow_Me-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
