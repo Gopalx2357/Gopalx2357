@@ -87,16 +87,20 @@
 
 ---
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
-
 ---
 
-## 📈 Profile Visitors
+<h2 align="center">✨ Thanks for Visiting My Profile!</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/@Gopalx2357?name=Gopalx2357&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%94%A5" alt="Animated Welcome"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gopalx2357.Gopalx2357&left_color=black&right_color=blueviolet" alt="Visitors"/>
+</p>
+
+<p align="center">
+  <b>⭐ Star my repositories if you find them useful!</b>
 </p>
 
 <p align="center">
